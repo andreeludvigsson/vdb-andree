@@ -25,4 +25,4 @@ Python · PyTorch · ONNX · Hugging Face PEFT / LoRA · Ollama · FastAPI · Re
 
 #### Contact
 
-[VDB:s webbplats eller LinkedIn]
+https://www.facebook.com/andree.ludvigsson.7
